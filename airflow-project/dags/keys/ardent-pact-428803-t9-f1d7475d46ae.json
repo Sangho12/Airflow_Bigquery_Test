@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ardent-pact-428803-t9",
+  "private_key_id": "f1d7475d46ae2003220a31c174ae54dec8d969be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXbDtPbi/DI5q/\nIKLnp4wD8i8fmpfjtifLBf6lDSPqZCQVd/cZrA6vp1xB789E1WwMAATUh4FoL+sa\nKnqSh3zlNxLxC5hqS2QGQs+JswjF38iiRjpjrryeuK+WnysrDOgDTRU/coTbonmy\nGs1kRSzQjhbvsIJbMtK4PZYpLuEDD3Pcz11EYFGN0HvyZUadrTUWqNWfAxrY9Li4\nFVVxtS+qn5ydNf2o4Bcb4YgFwbGQ3HXB6PufPF0EpA8/Lf9KIuvK9qD0EVJkNRW9\nM1aw/1GWBZ6XolrRHZUDHtNfywnyNi1nH7zmla8mQgxJE+x5bH7LBOwJJPXEQ/Hi\nr7vFSoiVAgMBAAECggEAQPNFeJ/or6W7APhGlaDLEt+AvL8gH4xquAhBLCNnmkKC\nLKTkcC2TqftEUi8LJ55PetjAnBGU/0Q/Vr7LAQXvrq5pvBp6ZEYBzO904ngD46Ei\nvWZ+MVLcVOCrNDceTVcRVvl1OBF/pDb7CSuSlLJUnjbRDIiD7RpINTuAXD9hoUmI\nKJm6+IvI9LjLR0tQpemly4v/R8UJ1b3ZIXziwFT+jBkk8iPbwCr88mI9wB0DeQMV\natelbsUOff3qYIxqUG22MDDCyZ4+xBxgFrJhE/7n9ItBrxL2DNvE6nalrownNjks\nzEDnJo5Prre5I6PFfvzkomyZBIV5iQiRXAnYS/9PqwKBgQD2UQkgRX6ez+eFpQtb\n3R0m5ZACqKo9qkMV3EZ82QMIEGCkxklbmTbevwfPsadzPAuJtA38r4aebw7cwwBi\nWFf+dP/+JJUYVXqFMaOl49fKT/+QzmQAU2xnjg2WWPmqktHP5F9fyr5FKL0mR5L9\nSyN7xPp28m53uXSsB9qWewX1/wKBgQDf5EbecnhL3BtSP47/ZPEmYluKy4l8WOAm\nLJf3/fSJB2VjUS8pl2VRPvcqtENywbB7UFMHF9c0tUfEw07kTPFdjBSXDf8dO5Yc\nZUIGCF57JcYghBIZ8pM7sVSUqeAI/3mtYlcD0WXhGwH7Zc1VNfaDo1wrmhdXuAik\ne4ia31lJawKBgQCbSn+8btPjgCPxKBq/Meo9KaHfa0LZWcytrZBrCc5VeS3U9IYv\nT6s+R6W/FbwCdKq5iGEBHBB9NntiRzaoyhXAATebnKi7DLkP3DnWTo0vqbvwKY72\nfaHsr6x1S2csWSAaN1rB4+qNY5/M0HclZgfa8lcOQs3OgYfDJbh0At/BNQKBgDFh\n0TvJNb1Nq/0FJc4w/nt/4D8Jy6ZQmAfzeAVrzx7WMcepJWTgDqnP4IZbwjCyhfF8\n8wMyf/YRMeY1SdZTHj2K4xO6M5XICcDzmI9qEyTIXR3Y44EznsPgxg4QNejmKHlU\nomqmKflvko1Xk+WChH/ebTr0vsdLQSS+VpAKSVBHAoGAT4EpZuFXW0ZXNedxD+ov\nKHzWRoy41515yxAFpjMdPk6kRtlme0q0kls4r/xv1nKi9WVSTVZZinIRtq8xttPS\n0kYe0zlM3Q4IZEiHjwNGxFHP8xqViT0qsJN7F3rYK+HbeRZkdJiU6gsp9wqQ/mJv\nAJuW1W/iJASpv5ldDpcATgE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow-project@ardent-pact-428803-t9.iam.gserviceaccount.com",
+  "client_id": "109349578147022776592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-project%40ardent-pact-428803-t9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

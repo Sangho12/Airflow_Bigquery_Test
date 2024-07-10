@@ -1,0 +1,7 @@
+{
+	"airflow_project_variables": {
+		"bq_conn_id": "airflow-project",
+		"bq_project": "ardent-pact-428803-t9",
+		"bq_dataset": "bitcoin_cryptocurrency"
+	}
+}
